@@ -1,4 +1,3 @@
 # Markdown
 
-Here will markdown my coding study life.
-
+My coding learning life will be recorded here.
